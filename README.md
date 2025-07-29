@@ -15,35 +15,35 @@ DesiFounder is a thriving networking space where individuals can collaborate, le
 ### 🏠 **Community Docks**
 Organized discussion spaces for various topics:
 
-- **General** - Diverse discussions and topics
-- **Ask** - Inquiries and seeking advice
-- **Tech** - Latest technology advancements
-- **News** - Current events and developments
-- **Hiring** - Recruitment and job opportunities
-- **Resources** - Valuable tools and materials
-- **Analysis** - In-depth discussions and evaluations
-- **Ideation** - Brainstorming and generating new ideas
-- **Cofounder** - Finding entrepreneurial partners
-- **Funding** - Financial support and investment opportunities
-- **Rant** - Safe space for venting frustrations
-- **AMA** - Ask Me Anything sessions
-- **Help** - Technical support
+- [**General**](https://desifounder.com/d/General) - Diverse discussions and topics
+- [**Ask**](https://desifounder.com/d/Ask) - Inquiries and seeking advice
+- [**Tech**](https://desifounder.com/d/Tech) - Latest technology advancements
+- [**News**](https://desifounder.com/d/News) - Current events and developments
+- [**Hiring**](https://desifounder.com/d/Hiring) - Recruitment and job opportunities
+- [**Resources**](https://desifounder.com/d/Resources) - Valuable tools and materials
+- [**Analysis**](https://desifounder.com/d/Analysis) - In-depth discussions and evaluations
+- [**Ideation**](https://desifounder.com/d/Ideation) - Brainstorming and generating new ideas
+- [**Cofounder**](https://desifounder.com/d/Cofounder) - Finding entrepreneurial partners
+- [**Funding**](https://desifounder.com/d/Funding) - Financial support and investment opportunities
+- [**Rant**](https://desifounder.com/d/Rant) - Safe space for venting frustrations
+- [**AMA**](https://desifounder.com/d/Ama) - Ask Me Anything sessions
+- [**Help**](https://desifounder.com/d/Help) - Technical support
 
 ### 🌟 **Spotlight**
 Weekly showcase feature for projects with categorized submissions:
-- **Productivity** - Task management and efficiency tools
-- **AI/ML** - Artificial intelligence and machine learning platforms
-- **Gaming** - Games and gaming services
-- **Finance** - Financial management applications
-- **SaaS** - Software as a Service solutions
-- **Development Tools** - Programming and development utilities
-- **Marketing** - Campaign and brand awareness tools
-- **Analytics Tools** - Data insights and business intelligence
-- **Social Networking** - Community platforms
-- **E-commerce** - Online marketplace solutions
-- **Mobile App** - Smartphone applications
-- **Web App** - Browser-based applications
-- **Open Source** - Community-driven projects
+- [**Productivity**](https://desifounder.com/spotlight/category/productivity_tools) - Task management and efficiency tools
+- [**AI/ML**](https://desifounder.com/spotlight/category/ai) - Artificial intelligence and machine learning platforms
+- [**Gaming**](https://desifounder.com/spotlight/category/gaming) - Games and gaming services
+- [**Finance**](https://desifounder.com/spotlight/category/finance) - Financial management applications
+- [**SaaS**](https://desifounder.com/spotlight/category/saas) - Software as a Service solutions
+- [**Development Tools**](https://desifounder.com/spotlight/category/dev_tools) - Programming and development utilities
+- [**Marketing**](https://desifounder.com/spotlight/category/marketing) - Campaign and brand awareness tools
+- [**Analytics Tools**](https://desifounder.com/spotlight/category/analytics_tools) - Data insights and business intelligence
+- [**Social Networking**](https://desifounder.com/spotlight/category/networking) - Community platforms
+- [**E-commerce**](https://desifounder.com/spotlight/category/e_commerce) - Online marketplace solutions
+- [**Mobile App**](https://desifounder.com/spotlight/category/mobile_app) - Smartphone applications
+- [**Web App**](https://desifounder.com/spotlight/category/web_app) - Browser-based applications
+- [**Open Source**](https://desifounder.com/spotlight/category/open_source) - Community-driven projects
 
 ### 👤 **User Profiles**
 - Karma point system
@@ -52,7 +52,7 @@ Weekly showcase feature for projects with categorized submissions:
 - Member since tracking
 
 ### 📝 **Content Creation**
-- Post creation and sharing
+- [Post creation](https://desifounder.com/create) and sharing
 - Link sharing with automatic previews
 - Category-based content organization
 - Time-based content filtering (New, Old, Top)
@@ -61,7 +61,7 @@ Weekly showcase feature for projects with categorized submissions:
 ### 🎯 **Core Capabilities**
 - **Community Discussions** - Topic-based conversations and advice sharing
 - **Co-founder Matching** - Connect with potential business partners
-- **Startup Showcase** - Highlight projects to targeted audiences
+- **Startup Spotlight** - Highlight projects to targeted audiences
 - **Networking & Collaboration** - Build professional relationships
 - **Knowledge Sharing** - Learn from experienced founders and mentors
 
